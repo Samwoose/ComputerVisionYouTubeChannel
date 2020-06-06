@@ -1,8 +1,14 @@
-This code is to show how to read video file or video stream from webcam. 
+<Technical Requirements>
+Visual Studio 2015
+OpenCV 4.0.
+
+This code is to show how to read video file or video stream from webcam with OpenCV in C++. 
 
 Please check out the video for details.
 
 I also provide the code written in the video and exercise. 
+
+
 
 Reference
 [1] AutomaticChocolateMachine.mp4
